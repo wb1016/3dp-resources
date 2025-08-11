@@ -1,4 +1,4 @@
-### [Go back to main](https://github.com/wb1016/3dp-resources/readme.md)
+### [Go back to main](https://github.com/wb1016/3dp-resources/blob/main/readme.md)
 # Special Purpose GCodes Collection
 this folder contains GCodes that are not for printing, like drying fillament, testing the machine, etc.
 # fillament drying GCodes

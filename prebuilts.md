@@ -1,4 +1,4 @@
-### [Go back to main](https://github.com/wb1016/3dp-resources/readme.md)
+### [Go back to main](https://github.com/wb1016/3dp-resources/blob/main/readme.md)
 # Prebuilt Binary Files
 this repo provides prebuilt binary files like Klipper Firmware, Katapult Bootloader, etc.
 however, i will NOT serve files directly with Git, since it slows down cloning repository.
